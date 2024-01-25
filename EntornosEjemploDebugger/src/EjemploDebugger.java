@@ -8,7 +8,7 @@ public class EjemploDebugger {
 		
 		//EJEMPLO
 		
-		
+		System.out.println("hola");
 		
 		
 		for (int i=0;i<10;i++) {
